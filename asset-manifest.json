@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SanBalta/Peliculas.git//static/css/main.ee7998f9.css",
-    "main.js": "/SanBalta/Peliculas.git//static/js/main.d0831d4a.js",
-    "index.html": "/SanBalta/Peliculas.git//index.html",
-    "main.ee7998f9.css.map": "/SanBalta/Peliculas.git//static/css/main.ee7998f9.css.map",
-    "main.d0831d4a.js.map": "/SanBalta/Peliculas.git//static/js/main.d0831d4a.js.map"
+    "main.css": "/SanBalta/Peliculas/static/css/main.ee7998f9.css",
+    "main.js": "/SanBalta/Peliculas/static/js/main.d0831d4a.js",
+    "index.html": "/SanBalta/Peliculas/index.html",
+    "main.ee7998f9.css.map": "/SanBalta/Peliculas/static/css/main.ee7998f9.css.map",
+    "main.d0831d4a.js.map": "/SanBalta/Peliculas/static/js/main.d0831d4a.js.map"
   },
   "entrypoints": [
     "static/css/main.ee7998f9.css",
